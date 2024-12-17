@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-12-17)
+
+<section class="features">
+
+### Features
+
+-   [`3550fc4`](https://github.com/stdlib-js/stdlib/commit/3550fc4a653ce3d56e01a36752dd5e9f47db3586) - add C implementation for `@stdlib/stats-base/dists/poisson/mean` [(#3973)](https://github.com/stdlib-js/stdlib/pull/3973)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3789](https://github.com/stdlib-js/stdlib/issues/3789)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`3550fc4`](https://github.com/stdlib-js/stdlib/commit/3550fc4a653ce3d56e01a36752dd5e9f47db3586) - **feat:** add C implementation for `@stdlib/stats-base/dists/poisson/mean` [(#3973)](https://github.com/stdlib-js/stdlib/pull/3973) _(by Divyansh Seth, Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Divyansh Seth
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
