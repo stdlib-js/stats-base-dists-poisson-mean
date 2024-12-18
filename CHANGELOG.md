@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-17)
+## Unreleased (2024-12-18)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`8bf8285`](https://github.com/stdlib-js/stdlib/commit/8bf8285aba0ecbd00ae145c4c5c098cd28135814) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`3550fc4`](https://github.com/stdlib-js/stdlib/commit/3550fc4a653ce3d56e01a36752dd5e9f47db3586) - **feat:** add C implementation for `@stdlib/stats-base/dists/poisson/mean` [(#3973)](https://github.com/stdlib-js/stdlib/pull/3973) _(by Divyansh Seth, Philipp Burckhardt)_
 
 </details>
