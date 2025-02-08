@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`ba0c854`](https://github.com/stdlib-js/stdlib/commit/ba0c854e87d0e86d0f7739e26095ec0a0f40c36f) - **docs:** fix function names in C example code _(by Philipp Burckhardt)_
 -   [`28b78a0`](https://github.com/stdlib-js/stdlib/commit/28b78a0590907a6757bc6fd4c9e88d9109280950) - **bench:** refactor random number generation in `stats/base/dists/poisson` [(#5106)](https://github.com/stdlib-js/stdlib/pull/5106) _(by pranav-1720)_
 -   [`b7867cb`](https://github.com/stdlib-js/stdlib/commit/b7867cbb3a4fc453e19203794402c36f19b264fd) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`8bf8285`](https://github.com/stdlib-js/stdlib/commit/8bf8285aba0ecbd00ae145c4c5c098cd28135814) - **chore:** minor clean-up _(by Philipp Burckhardt)_
