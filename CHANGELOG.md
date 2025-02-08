@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-13)
+## Unreleased (2025-02-08)
 
 <section class="features">
 
@@ -20,9 +20,9 @@
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#3789](https://github.com/stdlib-js/stdlib/issues/3789)
+[#3789](https://github.com/stdlib-js/stdlib/issues/3789), [#4984](https://github.com/stdlib-js/stdlib/issues/4984)
 
 </section>
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`28b78a0`](https://github.com/stdlib-js/stdlib/commit/28b78a0590907a6757bc6fd4c9e88d9109280950) - **bench:** refactor random number generation in `stats/base/dists/poisson` [(#5106)](https://github.com/stdlib-js/stdlib/pull/5106) _(by pranav-1720)_
 -   [`b7867cb`](https://github.com/stdlib-js/stdlib/commit/b7867cbb3a4fc453e19203794402c36f19b264fd) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`8bf8285`](https://github.com/stdlib-js/stdlib/commit/8bf8285aba0ecbd00ae145c4c5c098cd28135814) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`3550fc4`](https://github.com/stdlib-js/stdlib/commit/3550fc4a653ce3d56e01a36752dd5e9f47db3586) - **feat:** add C implementation for `@stdlib/stats-base/dists/poisson/mean` [(#3973)](https://github.com/stdlib-js/stdlib/pull/3973) _(by Divyansh Seth, Philipp Burckhardt)_
@@ -48,10 +49,11 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Divyansh Seth
 -   Philipp Burckhardt
+-   pranav-1720
 
 </section>
 
