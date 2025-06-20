@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-08)
+## Unreleased (2025-06-20)
 
 <section class="features">
 
@@ -34,6 +34,9 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`07cc4a4`](https://github.com/stdlib-js/stdlib/commit/07cc4a4f1aeec8d7d197d47b8a0db66be06a44f9) - **test:** align test descriptions between main and native test files _(by Philipp Burckhardt)_
+-   [`5f73301`](https://github.com/stdlib-js/stdlib/commit/5f73301a8509cc423a06b02140c4e316fd02ff49) - **docs:** minor clean-up _(by Philipp Burckhardt)_
+-   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`ba0c854`](https://github.com/stdlib-js/stdlib/commit/ba0c854e87d0e86d0f7739e26095ec0a0f40c36f) - **docs:** fix function names in C example code _(by Philipp Burckhardt)_
 -   [`28b78a0`](https://github.com/stdlib-js/stdlib/commit/28b78a0590907a6757bc6fd4c9e88d9109280950) - **bench:** refactor random number generation in `stats/base/dists/poisson` [(#5106)](https://github.com/stdlib-js/stdlib/pull/5106) _(by pranav-1720)_
 -   [`b7867cb`](https://github.com/stdlib-js/stdlib/commit/b7867cbb3a4fc453e19203794402c36f19b264fd) - **chore:** minor clean-up _(by Philipp Burckhardt)_
@@ -50,9 +53,10 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Divyansh Seth
+-   Karan Anand
 -   Philipp Burckhardt
 -   pranav-1720
 
