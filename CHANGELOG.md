@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-30)
+## Unreleased (2025-12-31)
 
 <section class="features">
 
@@ -34,6 +34,9 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`93fa3eb`](https://github.com/stdlib-js/stdlib/commit/93fa3eb4ae84a02ec231d778c6e543a83a86bc45) - **docs:** replace manual `for` loop in examples [(#9440)](https://github.com/stdlib-js/stdlib/pull/9440) _(by Harsh Yadav, Athan Reines)_
+-   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`07cc4a4`](https://github.com/stdlib-js/stdlib/commit/07cc4a4f1aeec8d7d197d47b8a0db66be06a44f9) - **test:** align test descriptions between main and native test files _(by Philipp Burckhardt)_
 -   [`5f73301`](https://github.com/stdlib-js/stdlib/commit/5f73301a8509cc423a06b02140c4e316fd02ff49) - **docs:** minor clean-up _(by Philipp Burckhardt)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
@@ -53,9 +56,11 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Divyansh Seth
+-   Harsh Yadav
 -   Karan Anand
 -   Philipp Burckhardt
 -   pranav-1720
