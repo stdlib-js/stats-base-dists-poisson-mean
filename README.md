@@ -69,7 +69,7 @@ where `λ` is the mean parameter.
 ## Usage
 
 ```javascript
-import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-poisson-mean@esm/index.mjs';
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-poisson-mean@v0.3.0-esm/index.mjs';
 ```
 
 #### mean( lambda )
@@ -119,7 +119,7 @@ var v = mean( -1.0 );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-poisson-mean@esm/index.mjs';
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-poisson-mean@v0.3.0-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
